@@ -4,4 +4,6 @@ public class Estoque {
 
 	private String nome;
 	private int quantidade;
+	
+	
 }
